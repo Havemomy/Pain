@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="films">
+        <item>Шрэк</item>
+        <item>Шрэк 2</item>
+        <item>Шрэк третий</item>
+        <item>Твое имя</item>
+        <item>Дитя погоды</item>
+    </string-array>
+</resources>
